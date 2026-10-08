@@ -23,4 +23,3 @@ I build computer engineering projects in scheduling, machine learning, embedded 
 - **Games and tools:** [Card Duel](https://github.com/amiralimgh7/AP_Project_Phase1), [Mastermind CLI](https://github.com/amiralimgh7/mastermind), and [GitHub User Explorer](https://github.com/amiralimgh7/mobile_tamrin1).
 
 The restored engineering repositories include build/run guides and automated checks. Their READMEs describe the scope of validation, external datasets, hardware requirements and original team credits. Earlier snapshots and incomplete scaffolds are described in their repository READMEs.
-
