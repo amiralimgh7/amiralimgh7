@@ -15,7 +15,8 @@ I build computer engineering projects in scheduling, machine learning, embedded 
 
 ## Explore by area
 
-- **Systems:** [Operating Systems](https://github.com/amiralimgh7/os-coursework), [UDP Payload Extractor](https://github.com/amiralimgh7/udp-payload-extractor), and [Parallel Computing](https://github.com/amiralimgh7/parallel-computing-coursework).
+- **Systems:** [Operating Systems](https://github.com/amiralimgh7/os-coursework), [Real-Time Scheduling](https://github.com/amiralimgh7/realtime-scheduling-coursework), [UDP Payload Extractor](https://github.com/amiralimgh7/udp-payload-extractor), and [Parallel Computing](https://github.com/amiralimgh7/parallel-computing-coursework).
+- **Circuit design:** [Logic Circuits in Proteus](https://github.com/amiralimgh7/logic-circuits-proteus) — native projects with opening notes and file-integrity checks; circuit simulation remains unverified.
 - **Algorithms:** [Data Structures](https://github.com/amiralimgh7/data-structures-coursework).
 - **Mobile:** [SimpleNote](https://github.com/amiralimgh7/mobileSimpleNote) and [GitHub User Explorer](https://github.com/amiralimgh7/mobile_tamrin1).
 - **Web:** Quiz Platform [Phase 2](https://github.com/amiralimgh7/web-phase-2-front), [Phase 3](https://github.com/amiralimgh7/Web_Fall1403_Phase3_FE), and [Phase 4](https://github.com/amiralimgh7/Web_Fall1403_Phase4_FE).
